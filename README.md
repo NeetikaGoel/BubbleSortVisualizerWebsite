@@ -1,9 +1,9 @@
 # BubbleSortVisualizerWebsite
 
-##Brief Summary:
+## Brief Summary:
 Developed a real-time sorting visualizer, illustrating the bubble sort algorithm. This interactive tool allows users to visualize sorting steps and incorporates a sound feature for enhanced user experience. 
 
-##Detailed Description:
+## Detailed Description:
 
 Welcome to the Sorting Visualizer website! This project provides a visual representation of the Bubble Sort algorithm for sorting an array. You can interact with the website to set the size of the array and visualize the sorting process in real-time.
 
