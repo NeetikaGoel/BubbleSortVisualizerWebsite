@@ -11,6 +11,8 @@ Welcome to the Sorting Visualizer website! This project provides a visual repres
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
+- [Screenshots](#screenshots)
+- [Working of Website Video](#working-of-website-video)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 
@@ -40,6 +42,14 @@ To get started with the Sorting Visualizer, follow these steps:
 - `math.js`: JavaScript file containing mathematical functions.
 - `column.js`: JavaScript file defining the Column class for drawing and animating columns.
 - `script.js`: The main JavaScript file for handling user interactions and implementing the Bubble Sort algorithm.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/e627ffa2-c5fb-4257-89d3-260d3c219bf5)
+![image](https://github.com/user-attachments/assets/dea48cc3-1c4f-454b-93a0-f4765935e842)
+
+## Working of Website Video
+
+Refer to the video file named BubbleSortVisualizerWebsiteVideo.mp4 in the github repository.
 
 ## Dependencies
 
